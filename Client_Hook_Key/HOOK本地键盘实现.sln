@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HOOK本地键盘实现", "HOOK本地键盘实现.vcxproj", "{971DF9A1-4074-4584-9D10-C988B4BF8177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Debug|x64.ActiveCfg = Debug|x64
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Debug|x64.Build.0 = Debug|x64
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Debug|x86.ActiveCfg = Debug|Win32
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Debug|x86.Build.0 = Debug|Win32
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Release|x64.ActiveCfg = Release|x64
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Release|x64.Build.0 = Release|x64
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Release|x86.ActiveCfg = Release|Win32
+		{971DF9A1-4074-4584-9D10-C988B4BF8177}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B17EDEFA-74D2-4886-9FDB-7C48387C15F0}
+	EndGlobalSection
+EndGlobal
